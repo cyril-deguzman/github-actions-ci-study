@@ -13,9 +13,7 @@ const functions = {
 
             if (curr <= prev) {
                 num += curr;
-            } else {
-                num = num + curr - (prev*2);
-            }
+            } 
         }
 
         return num;
