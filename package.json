@@ -1,0 +1,22 @@
+{
+  "name": "travis-ci-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyril-deguzman/travis-ci-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyril-deguzman/travis-ci-study/issues"
+  },
+  "homepage": "https://github.com/cyril-deguzman/travis-ci-study#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
